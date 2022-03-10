@@ -1,0 +1,13 @@
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/service/ParkingService.java
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/util/InputReaderUtil.java
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/dao/TicketDAO.java
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/model/ParkingSpot.java
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/config/DataBaseConfig.java
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/dao/ParkingSpotDAO.java
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/App.java
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/service/InteractiveShell.java
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/model/Ticket.java
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/constants/DBConstants.java
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/constants/ParkingType.java
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/service/FareCalculatorService.java
+/Users/jebalimahjoub/Downloads/parkingsystem corrig/src/main/java/com/parkit/parkingsystem/constants/Fare.java
